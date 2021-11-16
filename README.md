@@ -3,6 +3,6 @@
 
 [Demo](https://sergiss.github.io/password-generator/)
 
-![Password Generator](https://raw.githubusercontent.com/sergiss/password-generator/master/password-generator.png)
+![Password Generator](https://github.com/sergiss/password-generator/blob/master/password-generator.png?raw=true)
 
 https://sergiosoriano.com/
